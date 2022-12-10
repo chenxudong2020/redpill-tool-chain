@@ -3,10 +3,10 @@
   "url": "https://github.com/chenxudong2020/redpill-tool-chain/raw/master/extensions/redpill-dtb.json",
   "info": {
     "name": "Device tree binary",
-    "description": "Create your own device tree binary",
-    "author_url": "https://github.com/jumkey/redpill-load/raw/develop/redpill-dtb",
-    "packer_url": "https://github.com/jumkey/redpill-load/raw/develop/redpill-dtb",
-    "help_url": "https://github.com/jumkey/redpill-load/raw/develop/redpill-dtb"
+    "description": "Create your own device tree binary by chenxudong2020",
+    "author_url": "https://github.com/chenxudong2020/redpill-load/raw/develop/redpill-dtb",
+    "packer_url": "https://github.com/chenxudong2020/redpill-load/raw/develop/redpill-dtb",
+    "help_url": "https://github.com/chenxudong2020/redpill-load/raw/develop/redpill-dtb"
   },
   "releases": {
     "ds920p_42218": "https://github.com/chenxudong2020/redpill-load/raw/develop/redpill-dtb/recipes/universal.json",
